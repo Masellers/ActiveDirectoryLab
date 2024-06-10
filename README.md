@@ -1,20 +1,21 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration]()
 
 <h2>Description</h2>
-In this lab, I walk through creating an active directory Home Lab environment using Oracle Virtual Box...
+In this lab, I walk through creating an active directory Home Lab environment using Oracle Virtual Box.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VirtualBox</b>
+- <b>Active Directory</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10 Pro</b>
+- <b>Windows Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
