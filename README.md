@@ -44,8 +44,8 @@ Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe New User With Whoami Command:  <br/>
+<img src="[img]https://i.imgur.com/6B1Q0pj.png[/img]" height="80%" width="80%" alt="Whoami"/>
 </p>
 
 <!--
