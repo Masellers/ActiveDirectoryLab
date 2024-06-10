@@ -75,7 +75,9 @@ Install DHCP Service:  <br/>
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<b>For My Homelab, I used a script to add fake users to my domain </b>
 <br />
+https://github.com/Masellers/ActiveDirectoryLab/blob/main/AD_PS-master.zip
 <br />
 Use Powershell Script to populate Active Directory with Users:  <br/>
 <img src="https://i.imgur.com/j9CAgTJ.png" height="80%" width="80%" alt="PowerShell"/>
