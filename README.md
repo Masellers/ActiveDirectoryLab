@@ -72,21 +72,30 @@ Install DHCP Service:  <br/>
 <img src="https://i.imgur.com/GPNRcKM.png" height="80%" width="80%" alt="DHCP4"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Powershell:  <br/>
+<img src="https://i.imgur.com/k1vQXcu.png" height="80%" width="80%" alt="Powershell script"/>
 <br />
-<b>For My lab environment, I used a script to add myself and fake users to my domain </b>
+<b>For My lab environment, I used a script to add myself and fake users to my domain. Run Windows Powershell ISE as administrator and open the CREATE_USERS.ps1 file. </b>
+<b>Make sure to change directory to the location of the downloaded script and "Set-ExecutionPolicy Unrestricted"</b>
 <br />
 https://github.com/Masellers/ActiveDirectoryLab/blob/main/AD_PS-master.zip
+<br />
+<br />
 <br />
 Use Powershell Script to populate Active Directory with Users:  <br/>
 <img src="https://i.imgur.com/j9CAgTJ.png" height="80%" width="80%" alt="PowerShell"/>
 <br />
-<b>Make sure to change directory to the location of the downloaded script and "Set-ExecutionPolicy Unrestricted"
 <br />
 <br />
-Observe New User With Whoami Command:  <br/>
+Login to client VM using newly created user - configure and test network:  <br/>
+<br />
+<img src="https://i.imgur.com/pzkhqDj.png" height="80%" width="80%" alt="ipconfig"/>
+<br />
+<img src="https://i.imgur.com/RBRGzoL.png" height="80%" width="80%" alt="Client1"/>
+<br />
 <img src="https://i.imgur.com/6B1Q0pj.png" height="80%" width="80%" alt="Whoami"/>
+<br />
+<b>Finally, We have created a Server with Active Directory, Remote Access and DHCP services so that we could automate onboarding users via a Powershell script, used ipconfig to show we were connected and DHCP services were working correctly and successfully logged into our client machine using a user account we created with our script.</b>
 </p>
 
 <!--
