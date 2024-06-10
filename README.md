@@ -17,35 +17,42 @@ In this lab, I walk through creating an active directory Home Lab environment us
 - <b>Windows 10 Pro</b>
 - <b>Windows Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Overview diagram to represent Homelab: <br/>
+<img src="https://i.imgur.com/1PKmF7M.png" height="80%" width="80%" alt="Overview Diagram"/>
+<br />
+<b>This is the model I followed while setting up my homelab</b>
 <br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <br />
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use Powershell Script to populate Active Directory with Users:  <br/>
+<img src="https://i.imgur.com/j9CAgTJ.png" height="80%" width="80%" alt="PowerShell"/>
+<br />
+<b>Make sure to change directory to the location of the downloaded script and "Set-ExecutionPolicy Unrestricted"
 <br />
 <br />
 Observe New User With Whoami Command:  <br/>
-<img src="[Imgur](https://imgur.com/6B1Q0pj)" height="80%" width="80%" alt="Whoami"/>
+<img src="https://i.imgur.com/6B1Q0pj.png" height="80%" width="80%" alt="Whoami"/>
 </p>
 
 <!--
