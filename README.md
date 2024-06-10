@@ -45,7 +45,7 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe New User With Whoami Command:  <br/>
-<img src="[img]https://i.imgur.com/6B1Q0pj.png[/img]" height="80%" width="80%" alt="Whoami"/>
+<img src="[Imgur](https://imgur.com/6B1Q0pj)" height="80%" width="80%" alt="Whoami"/>
 </p>
 
 <!--
