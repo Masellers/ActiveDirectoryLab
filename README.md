@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab, I walk through creating an active directory Home Lab environment using Oracle Virtual Box. This is a lab environment that I can use for further experimentation and projects. For the scope of this project, I installed Active Directory, Remote Access Service and DHCP service on a Windows Server virtual machine and configured an internal network with another client virtual machine that joined the domain that was created on the server.
+In this lab, I walk through creating an active directory Home Lab environment using Oracle Virtual Box. This is a lab environment that I can use for further experimentation and projects. For the scope of this project, I installed Active Directory, Remote Access Service and DHCP service on a Windows Server virtual machine and configured an internal network with another client virtual machine that joined the domain created on the server.
 <br />
 
 
