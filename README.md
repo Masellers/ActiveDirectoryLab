@@ -22,10 +22,10 @@ In this lab, I walk through creating an active directory Home Lab environment us
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Overview diagram to represent Homelab: <br/>
+Overview diagram to represent my Homelab's configuration: <br/>
 <img src="https://i.imgur.com/1PKmF7M.png" height="80%" width="80%" alt="Overview Diagram"/>
 <br />
-<b>This is the model I followed while setting up my homelab. The homelab consists of a Windows 2019 server VM and a Windows 10 Pro Client VM</b>
+<b>This is the model I followed while setting up my homelab. The homelab consists of a Windows 2019 server VM and a Windows 10 Pro VM</b>
 <br />
 <br />
 Windows server internal IP configuration:  <br/>
