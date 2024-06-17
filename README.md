@@ -31,7 +31,7 @@ Overview diagram to represent my Homelab's configuration: <br/>
 Windows server internal IP configuration:  <br/>
 <img src="https://imgur.com/oI1eimo.png" height="80%" width="80%" alt="IP configuration"/>
 <br />
-<b>The Windows server VM is setup with an External and Internal network and the IP address for the internal network should be setup according to the diagram</b>
+<b>The Windows server VM is setup with an External and Internal network adapter in the Oracle VirtualBox Settings and the IP address for the internal network should be setup according to the diagram</b>
 <br />
 <br />
 Add Active Directory Domain Services: <br/>
