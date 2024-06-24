@@ -80,9 +80,11 @@ The script used is available [here](https://github.com/Masellers/ActiveDirectory
 
 
 ### Use Powershell Script to populate Active Directory with Users:
+
 <img src="https://i.imgur.com/j9CAgTJ.png" height="80%" width="80%" alt="PowerShell"/>
 
 ### Login to client VM using newly created user - configure and test network:
+We can use commands with cmd such as "ipconfig", "ping" and "whoami" to see that we are connected and that the DHCP services on our server correctly assigned our IP
 
 <img src="https://i.imgur.com/pzkhqDj.png" height="80%" width="80%" alt="ipconfig"/>
 
